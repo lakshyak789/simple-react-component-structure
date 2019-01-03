@@ -1,0 +1,328 @@
+body
+{
+    font-family: myriad-pro, sans-serif;
+font-style: normal;
+
+}
+.banner
+{
+    background-image: url(../images/background1.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    object-fit: cover;
+    background-size: cover;
+}
+.five
+{
+ margin-top: 40px;
+ text-align: center;
+}
+h1
+{
+    font-weight: 200
+}
+h1.first::after
+ {
+    position: absolute;
+    content: "";
+    width: 50px;
+    background:black;
+ 
+    bottom: 41px;
+    top: 55px;
+    height: 3px;
+    left: 549px;
+}
+.six
+{
+    text-align: center;
+    margin-top: 26px;
+}
+.right
+{
+    text-align: center;
+    margin-top: 73px
+}
+.wrapper
+{
+        border-style: solid;
+        border-color: silver;
+        width: 143px;
+        height: 143px;
+        background-color: #e1f3e1;
+        border-radius: 35px;
+        padding-top: 33px;
+    padding-bottom: 43px;
+    padding-left: 5px;
+    padding-right: 5px;
+    }
+.seven
+{
+    margin-top: 28px;
+}
+.eight
+{
+    margin-top: 24px;
+}
+.nine 
+{
+    background-color: #54d154;
+    color: #ffffff;
+    border-radius: 20px;
+    margin-top: 31px;
+    border: 0px;
+    padding: 5px 10px;
+    margin-bottom: 73px;
+}
+section.ten
+{
+    background-color: #54d154
+}
+.eleven
+{
+    text-align: center;
+    margin-top: 36px;
+}
+h1.eleven::after
+    {
+        position: absolute;
+        content: "";
+        width: 50px;
+        background:black;
+        bottom: 41px;
+        top: 87px;
+        height: 3px;
+        left: 549px;
+    }
+
+.twelve
+{
+    text-align: center;
+    margin-top:14px;
+    margin-bottom: 79px;
+    color: grey
+}
+.btn-group {
+    
+    margin-top: 65px;
+    margin-bottom: 55px;
+    margin-left: 455px;
+    padding: 10px 24px;
+}
+.happy
+{
+    background-color: #2b9b2b;
+    color: white
+}
+.lol
+{
+    color: green
+}
+
+.thirteen
+{
+    padding: 20px;
+    margin-left: 28px;
+}
+    .fourteen {
+        display: block;
+        margin: auto;
+        margin-top: 59px;
+        margin-bottom: 55px;
+        border: 1px;
+        border-radius: 20px;
+        width: 187px;
+        height: 37px;
+        background-color:#2b9b2b;
+        color: white;
+    }
+.twentythree
+{
+    text-align: center;
+    margin-top: 30px
+}
+h2.twentythree::after
+{
+ position: absolute;
+        content: "";
+        width: 50px;
+        background:black;
+        bottom: 41px;
+        top: 70px;
+        height: 3px;
+        left: 549px;
+}
+.fifteen
+{
+    background-color: #f2f1f1;
+}
+.seventeen
+{
+    margin-top: 82px;
+    margin-left: 9px;
+}
+.sixteen
+{
+    margin-top: 64px;
+    margin-left: 9px;
+}
+.eighteen
+{
+  
+    background-color: #dddcdc;
+    height: 37px;
+    width: 194px;
+    margin:auto;
+    display:block;
+    margin-bottom: 64px;
+    margin-top: 64px;
+    border-radius: 20px;
+    border: 1px;
+}
+section.nineteen
+{
+    background-color: #54d154;
+}
+.img-frame-1 img
+{
+width: 100%;
+border-radius: 100%;
+overflow: hidden;
+}
+
+.nice
+{
+    text-align: center;
+    margin-top: 37px;
+}
+h1.nice::after
+ {
+    position: absolute;
+    content: "";
+    width: 50px;
+    background:black;
+    left: 650;
+    bottom: 41px;
+    top: 87px;
+    height: 3px;
+    left: 540px;
+}
+.twenty
+{
+    border-radius: 50%
+}
+.vertical-line
+{
+    width: 1px; 
+      background-color: black; 
+      height: 45px;
+      position: relative;
+}
+section.twentyone
+{
+    background-color: #3eba3e;
+}
+.button{
+
+    margin-top: 29px;
+    margin-bottom: 29px;
+    margin-left: 45%;
+    border-radius: 20px;
+    border: 1px;
+    height: 42px;
+    width: 182px;
+    background-color: rgba(255,255,255,0.3);
+    color: white;
+    box-shadow: 3px 2px #38a838;
+}
+section.twentytwo
+{
+    background-color: #333333;
+    color: white;
+}
+h3.john::after
+{
+    position: absolute;
+    content: "";
+    width: 50px;
+    background:white;
+    left: 650;
+    bottom: 41px;
+    top: 39px;
+    height: 3px;
+    left: 155px;
+}
+h3.smith::after
+{
+    position: absolute;
+    content: "";
+    width: 30px;
+    background: white;
+    bottom: 41px;
+    top: 39px;
+    height: 3px;
+    left: 100px
+}
+.div
+{
+    text-align: center;
+}
+
+h3.div::after
+{
+    position: absolute;
+    content: "";
+    width: 30px;
+    background: white;
+    bottom: 41px;
+    top: 39px;
+    height: 3px;
+    left: 180px;
+}
+.green
+{
+    background-color: green;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.blue
+{
+background-color: blue;
+}
+.red
+{
+background-color: red;
+}
+.lay
+{
+    margin-top: 25px;
+} 
+.lie
+{
+
+    text-align: center;
+    
+}
+.twentyfive
+{
+    text-align: center;
+    margin-top: 24px;
+}
+h1.twentyfive::after
+{
+    position: absolute;
+        content: "";
+        width: 50px;
+        background:black;
+        bottom: 41px;
+        top: 74px;
+        height: 3px;
+        left: 540px;
+}
+.hide
+{
+    margin-bottom: 34px;
+}
